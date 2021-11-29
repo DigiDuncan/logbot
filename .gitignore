@@ -1,0 +1,18 @@
+# Compiled python
+*.pyc
+.pytest_cache
+*.egg-info
+build
+dist
+__pycache__
+
+# Visual Studio
+.vs
+*.pyproj
+*.pyproj.user
+*.sln
+
+# Visual Studio Code
+*.code-workspace
+
+logbot/data/_AUTHTOKEN
